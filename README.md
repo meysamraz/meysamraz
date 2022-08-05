@@ -1,6 +1,6 @@
-# Hi There 👋 Welcome to Meysam Raz GitHub Profile
+### Hi There 👋 Welcome to Meysam Raz GitHub Profile
 
-## I am a highly motivated data scientist. I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.
+I am a highly motivated data scientist. I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.
 
 
 
