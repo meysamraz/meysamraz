@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
+![MasterHead](https://media.istockphoto.com/vectors/vector-line-web-banner-for-data-science-vector-id924291390)
 <h1 align="center">Hi 👋, I'm Meysam Raz</h1>
 <h3 align="center">a highly motivated data scientist. I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.</h3>
 
