@@ -1,6 +1,9 @@
 ![MasterHead](https://media.istockphoto.com/vectors/vector-line-web-banner-for-data-science-vector-id924291390)
+[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
 <h1 align="center">Hi 👋, I'm Meysam Raz</h1>
 <h3 align="center">a highly motivated data scientist. I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.</h3>
+<img align="right" alt="coding" width="400" src="https://i1.wp.com/codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif?fit=680%2C428&ssl=1">
+
 
 <p align="left"> <a href="https://twitter.com/meysamjs" target="blank"><img src="https://img.shields.io/twitter/follow/meysamjs?logo=twitter&style=for-the-badge" alt="meysamjs" /></a> </p>
 
