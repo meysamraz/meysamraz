@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Meysam Raz</h1>
 <h3 align="center">a highly motivated data scientist. I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.</h3>
 <img align="right" alt="coding" width="400" src="https://i1.wp.com/codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif?fit=680%2C428&ssl=1">
