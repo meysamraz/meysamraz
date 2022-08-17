@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/meysamjs" target="blank"><img src="https://img.shields.io/twitter/follow/meysamjs?logo=twitter&style=for-the-badge" alt="meysamjs" /></a> </p>
 
+<a href="https://www.kaggle.com/meisamraz"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/meisamraz"></a>
+
 - 💬 Ask me about **Data science, nlp, bi, computer vision, deep learning**
 
 - 📫 How to reach me **mr.raz2002@gmail.com**
