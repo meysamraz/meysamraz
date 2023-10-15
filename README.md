@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="350" src="https://i1.wp.com/codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif?fit=680%2C428&ssl=1">
 
 
-<p align="left"> <a href="https://twitter.com/meysamrazz" target="blank"><img src="https://img.shields.io/twitter/follow/meysamjs?logo=twitter&style=for-the-badge" alt="meysamrazz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/meysamrazz" target="blank"><img src="https://img.shields.io/twitter/follow/meysamrazz?logo=twitter&style=for-the-badge" alt="meysamrazz" /></a> </p>
 
 <a href="https://www.kaggle.com/meisamraz"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/meisamraz"></a>
 
