@@ -9,7 +9,7 @@
 <a href="https://www.kaggle.com/meisamraz"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/meisamraz"></a>
 
 ### 💬 Let’s talk about:
-`Computer Vision`, `Autonomous Systems`, `Robotics`, `Deep learning`, `Smart Cities`
+`Computer Vision`, `Autonomous Systems`, `Robotics`, `Deep Learning`, `Smart Cities`
 
 - 📫 How to reach me **mr.raz2002@gmail.com**
 
