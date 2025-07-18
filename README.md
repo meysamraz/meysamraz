@@ -1,6 +1,6 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Meysam Raz</h1>
-<h3 align="center">a highly motivated data scientist. I enjoy learning and I love to solve problems using data. On this page, I will share with you some of the projects I have done.</h3>
+<h3 align="center">I build computer vision systems for autonomous agents. I’m learning, exploring, and sharing along the way.</h3>
 <img align="right" alt="coding" width="350" src="https://i1.wp.com/codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif?fit=680%2C428&ssl=1">
 
 
@@ -8,7 +8,8 @@
 
 <a href="https://www.kaggle.com/meisamraz"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/meisamraz"></a>
 
-- 💬 Ask me about **Data Science, NLP, BI, Computer Vision, Machine Learning ,Deep Learning**
+### 💬 Let’s talk about:
+`computer vision`, `autonomous systems`, `robotics`, `deep learning`
 
 - 📫 How to reach me **mr.raz2002@gmail.com**
 
